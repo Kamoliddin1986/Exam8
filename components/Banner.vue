@@ -21,7 +21,7 @@
              <div class="w-[22.5%] flex flex-col gap-3">
                 <div class="flex flex-col bg-[#E3F0FF] px-[10px] py-[17px] gap-2 rounded-md">
                     <div class="flex items-center gap-2 ">
-                        <img src="/avatar.png" alt="">
+                        <img src="/Avatar.png" alt="">
                         <div class="flex flex-col">
                             <p>Hi! User</p>
                             <p>Let's get started</p>
